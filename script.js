@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', function() {
             "link": "https://bilalnarejo2411c.github.io/Shelter-Hazard-Project/"
         },
         {
-            "title": "Digital Divide Records",
-            "image": "javascript",
-            "projectImg": "digitaldividerecords.png",
-            "description": "A South African House Music Record Label",
-            "link": "https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/"
+            "title": "Responsive Page Using HTML + CSS",
+            "image": "HTML + CSS",
+            "projectImg": "Responsive Web Page HTML + CSS.png",
+            "description": "Responsive website using HTML & CSS",
+            "link": "https://bilalnarejo2411c.github.io/Responsive-page/"
         },
         {
             "title": "Drag Me",
