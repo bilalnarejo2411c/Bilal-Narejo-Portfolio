@@ -321,25 +321,26 @@ document.addEventListener('DOMContentLoaded', function() {
     };
     
     // Animate progress bars when skills section is in view
-    const animateSkillBars = () => {
-        const skillsSection = document.getElementById('skills');
-        if (!skillsSection) return;
-        
-        const skillBars = document.querySelectorAll('.skill-progress');
-        const sectionPosition = skillsSection.getBoundingClientRect().top;
-        const windowHeight = window.innerHeight;
-        
-        if (sectionPosition < windowHeight - 100) {
-            skillBars.forEach(bar => {
-                const width = bar.style.width;
-                bar.style.width = '0';
-                setTimeout(() => {
-                    bar.style.width = width;
-                }, 100);
-            });
-        }
-    };
-    
+  const animateSkillBars = () => {
+    const skillsSection = document.getElementById('skills');
+    if (!skillsSection) return;
+
+    const skillBars = document.querySelectorAll('.skill-progress');
+    const sectionPosition = skillsSection.getBoundingClientRect().top;
+    const windowHeight = window.innerHeight;
+
+    if (sectionPosition < windowHeight - 100) {
+        skillBars.forEach(bar => {
+            if (bar.classList.contains('active')) return;  // animation sirf ek dafa
+            // Set CSS variable --target-width to value from data-width
+            const targetWidth = bar.getAttribute('data-width');
+            bar.style.setProperty('--target-width', targetWidth);
+            // Add active class to trigger animation
+            bar.classList.add('active');
+        });
+    }
+};
+
     // Smooth scrolling for navigation links
     const smoothScroll = () => {
         const links = document.querySelectorAll('a[href^="#"]');
@@ -370,7 +371,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Initialize EmailJS with your user ID
         // Replace 'YOUR_EMAILJS_USER_ID' with your actual EmailJS user ID/public key
-        emailjs.init('k8FMxcW3OlbaRfu2u');
+        emailjs.init('cRG-npjiUcHSlmuGR');
         
         contactForm.addEventListener('submit', function(e) {
             e.preventDefault();
@@ -383,7 +384,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Send email using EmailJS
             // Replace 'YOUR_EMAILJS_SERVICE_ID' and 'YOUR_EMAILJS_TEMPLATE_ID' with your actual values
-            emailjs.sendForm('service_y8eilob', 'template_0fbrelq', this)
+            emailjs.sendForm('service_t7lsohf', 'template_pp9hdrk', this)
                 .then(function(response) {
                     // Show success message
                     emailStatus.textContent = 'Thank you! Your message has been sent successfully. You will get a reply via email!';
