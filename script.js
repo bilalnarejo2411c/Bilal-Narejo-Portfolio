@@ -15,118 +15,118 @@ document.addEventListener('DOMContentLoaded', function() {
             "description": "Responsive website using HTML & CSS",
             "link": "https://bilalnarejo2411c.github.io/Responsive-page/"
         },
-        {
-            "title": "Drag Me",
-            "image": "nodejs",
-            "projectImg": "dragme.png",
-            "description": "A div element, that you can drag around the screen",
-            "link": "https://qms85.github.io/DragMeAroundTheScreen/"
-        },
-        {
-            "title": "Entrepreneurship",
-            "image": "react",
-            "projectImg": "entrepreneurship.png",
-            "description": "A guide to Entrepreneurship, using Replit .",
-            "link": "https://entrepreneurship-withreplit.streamlit.app/"
-        },
-        {
-            "title": "GitHub Profile Search",
-            "image": "javascript",
-            "projectImg": "githubprofilesearch.png",
-            "description": "A Web app that searches for Github profiles,enter username & enter",
-            "link": "https://qms85.github.io/Github-User-Search/"
-        },
-        {
-            "title": "GKroon Investment Calculator",
-            "image": "nodejs",
-            "projectImg": "gkrooninvestmentcalculator.png",
-            "description": "An investment calculator, in $USD",
-            "link": "https://gkroon-web.github.io/Investment-Calculator/"
-        },
-        {
-            "title": "GKroon Password Generator",
-            "image": "react",
-            "projectImg": "gkroonpasswordgenerator.png",
-            "description": "This app generates passwords up to 24 characters",
-            "link": "https://qms85.github.io/Password-Generator/"
-        },
-        {
-            "title": "GKroon",
-            "image": "javascript",
-            "projectImg": "gkroonwebsite.png",
-            "description": "A business website for GKroon",
-            "link": "https://g-kroon.github.io/GKroon/"
-        },
-        {
-            "title": "Music Player",
-            "image": "nodejs",
-            "projectImg": "musicplayer.png",
-            "description": "A mp3 music player. Press Play & enjoy the groove",
-            "link": "https://qms85.github.io/MusicPlayer/"
-        },
-        {
-            "title": "Meme Generator",
-            "image": "react",
-            "projectImg": "memegenerator.png",
-            "description": "Upload your images, add text & download your new meme",
-            "link": "https://qms85.github.io/MemeGenerator/"
-        },
-        {
-            "title": "Replit Capabilities Guide",
-            "image": "javascript",
-            "projectImg": "replitcapabilitiesguide.png",
-            "description": "A comprehensive guide to Repit.",
-            "link": "https://qms85.github.io/ReplitCapabilitiesGuide/"
-        },
-        {
-            "title": "Rectangular Run",
-            "image": "nodejs",
-            "projectImg": "rectangularrun.png",
-            "description": "A simple javascript game, inspired by the classic Dino Run game. Only this version uses rectangles",
-            "link": "https://gkroon-web.github.io/RectangleRun/"
-        },
-        {
-            "title": "Sample Artist EPK",
-            "image": "react",
-            "projectImg": "sampleartistepk.png",
-            "description": "A sample artist electronic press kit (EPK)",
-            "link": "https://digitaldividerecords-pty-ltd.github.io/SampleArtistEPK/"
-        },
-        {
-            "title": "Simple Calculator",
-            "image": "react",
-            "projectImg": "calculator.png",
-            "description": "A simple calculator",
-            "link": "https://qms85.github.io/GitHubCalculator/"
-        },
-        {
-            "title": "Funky Snake Game",
-            "image": "react",
-            "projectImg": "snakegame2025.png",
-            "description": "My version of snake",
-            "link": "https://qms85.github.io/SnakeGame2025/"
-        },
-        {
-            "title": "Bilal Code",
-            "image": "react",
-            "projectImg": "qrcode.png",
-            "description": "QR Code: Front End Mentor Challenge",
-            "link": "https://qms85.github.io/QRCode/"
-        },
-        {
-            "title": "Blog Preview Card",
-            "image": "react",
-            "projectImg": "blog.png",
-            "description": "Blog Preview Card: Front End Mentor Challenge",
-            "link": "https://qms85.github.io/BlogPreviewCard/"
-        },
-        {
-            "title": "Social Links Profile",
-            "image": "react",
-            "projectImg": "social.png",
-            "description": "Social Links Profile: Front End Mentor Challenge",
-            "link": "https://qms85.github.io/SocialLinks/"
-        },    
+        // {
+        //     "title": "Drag Me",
+        //     "image": "nodejs",
+        //     "projectImg": "dragme.png",
+        //     "description": "A div element, that you can drag around the screen",
+        //     "link": "https://qms85.github.io/DragMeAroundTheScreen/"
+        // },
+        // {
+        //     "title": "Entrepreneurship",
+        //     "image": "react",
+        //     "projectImg": "entrepreneurship.png",
+        //     "description": "A guide to Entrepreneurship, using Replit .",
+        //     "link": "https://entrepreneurship-withreplit.streamlit.app/"
+        // },
+        // {
+        //     "title": "GitHub Profile Search",
+        //     "image": "javascript",
+        //     "projectImg": "githubprofilesearch.png",
+        //     "description": "A Web app that searches for Github profiles,enter username & enter",
+        //     "link": "https://qms85.github.io/Github-User-Search/"
+        // },
+        // {
+        //     "title": "GKroon Investment Calculator",
+        //     "image": "nodejs",
+        //     "projectImg": "gkrooninvestmentcalculator.png",
+        //     "description": "An investment calculator, in $USD",
+        //     "link": "https://gkroon-web.github.io/Investment-Calculator/"
+        // },
+        // {
+        //     "title": "GKroon Password Generator",
+        //     "image": "react",
+        //     "projectImg": "gkroonpasswordgenerator.png",
+        //     "description": "This app generates passwords up to 24 characters",
+        //     "link": "https://qms85.github.io/Password-Generator/"
+        // },
+        // {
+        //     "title": "GKroon",
+        //     "image": "javascript",
+        //     "projectImg": "gkroonwebsite.png",
+        //     "description": "A business website for GKroon",
+        //     "link": "https://g-kroon.github.io/GKroon/"
+        // },
+        // {
+        //     "title": "Music Player",
+        //     "image": "nodejs",
+        //     "projectImg": "musicplayer.png",
+        //     "description": "A mp3 music player. Press Play & enjoy the groove",
+        //     "link": "https://qms85.github.io/MusicPlayer/"
+        // },
+        // {
+        //     "title": "Meme Generator",
+        //     "image": "react",
+        //     "projectImg": "memegenerator.png",
+        //     "description": "Upload your images, add text & download your new meme",
+        //     "link": "https://qms85.github.io/MemeGenerator/"
+        // },
+        // {
+        //     "title": "Replit Capabilities Guide",
+        //     "image": "javascript",
+        //     "projectImg": "replitcapabilitiesguide.png",
+        //     "description": "A comprehensive guide to Repit.",
+        //     "link": "https://qms85.github.io/ReplitCapabilitiesGuide/"
+        // },
+        // {
+        //     "title": "Rectangular Run",
+        //     "image": "nodejs",
+        //     "projectImg": "rectangularrun.png",
+        //     "description": "A simple javascript game, inspired by the classic Dino Run game. Only this version uses rectangles",
+        //     "link": "https://gkroon-web.github.io/RectangleRun/"
+        // },
+        // {
+        //     "title": "Sample Artist EPK",
+        //     "image": "react",
+        //     "projectImg": "sampleartistepk.png",
+        //     "description": "A sample artist electronic press kit (EPK)",
+        //     "link": "https://digitaldividerecords-pty-ltd.github.io/SampleArtistEPK/"
+        // },
+        // {
+        //     "title": "Simple Calculator",
+        //     "image": "react",
+        //     "projectImg": "calculator.png",
+        //     "description": "A simple calculator",
+        //     "link": "https://qms85.github.io/GitHubCalculator/"
+        // },
+        // {
+        //     "title": "Funky Snake Game",
+        //     "image": "react",
+        //     "projectImg": "snakegame2025.png",
+        //     "description": "My version of snake",
+        //     "link": "https://qms85.github.io/SnakeGame2025/"
+        // },
+        // {
+        //     "title": "Bilal Code",
+        //     "image": "react",
+        //     "projectImg": "qrcode.png",
+        //     "description": "QR Code: Front End Mentor Challenge",
+        //     "link": "https://qms85.github.io/QRCode/"
+        // },
+        // {
+        //     "title": "Blog Preview Card",
+        //     "image": "react",
+        //     "projectImg": "blog.png",
+        //     "description": "Blog Preview Card: Front End Mentor Challenge",
+        //     "link": "https://qms85.github.io/BlogPreviewCard/"
+        // },
+        // {
+        //     "title": "Social Links Profile",
+        //     "image": "react",
+        //     "projectImg": "social.png",
+        //     "description": "Social Links Profile: Front End Mentor Challenge",
+        //     "link": "https://qms85.github.io/SocialLinks/"
+        // },    
                 
     ];
     
@@ -139,13 +139,13 @@ document.addEventListener('DOMContentLoaded', function() {
         // {"name": "Node.js", "percentage": 45, "icon": "devicon-nodejs-plain colored"},
         // {"name": "Express.js", "percentage": 45, "icon": "devicon-express-original colored"},
         // {"name": "D3.js", "percentage": 70, "icon": "devicon-d3js-plain colored"},
-        {"name": "Bootstrap", "percentage": 50, "icon": "devicon-bootstrap-plain colored"},
-        // {"name": "Tailwind CSS", "percentage": 70, "icon": "devicon-tailwindcss-plain colored"},
+        {"name": "Bootstrap", "percentage": 80, "icon": "devicon-bootstrap-plain colored"},
         // {"name": "Python", "percentage": 45, "icon": "devicon-python-plain colored"},
-        {"name": "SQL", "percentage": 20, "icon": "devicon-azuresqldatabase-plain"},
+        {"name": "My SQL", "percentage": 90, "icon": "devicon-mysql-plain-wordmark colored"},
          {"name": "XML", "percentage": 80, "icon": "devicon-xml-plain"},
-            {"name": "Json", "percentage": 50, "icon": "devicon-json-plain"},
-             {"name": "Jquery", "percentage": 80, "icon": "devicon-jquery-plain"}
+            {"name": "Json", "percentage": 70, "icon": "devicon-json-plain"},
+             {"name": "Jquery", "percentage": 80, "icon": "devicon-jquery-plain"},
+                 {"name": "PHP", "percentage": 10, "icon": "devicon-php-plain"}
          
     ];
     
@@ -162,9 +162,9 @@ document.addEventListener('DOMContentLoaded', function() {
         // {"name": "Tailwind CSS", "icon": "devicon-tailwindcss-plain colored"},
         // {"name": "Python", "icon": "devicon-python-plain colored"},
         {"name": "GitHub", "icon": "devicon-github-original colored"},
-        // {"name": "Replit", "icon": "devicon-replit-original colored"},
+        {"name": "PHP", "icon": "devicon-php-plain"},
         {"name": "VS Code", "icon": "devicon-vscode-plain colored"},
-              {"name": "SQL", "icon": "devicon-azuresqldatabase-plain"},
+              {"name": "My SQL", "icon": "devicon-mysql-plain-wordmark colored"},
                    {"name": "XML", "icon": "devicon-xml-plain"},
                         {"name": "Json", "icon": "devicon-json-plain"},
                          {"name": "Jquery", "icon": "devicon-jquery-plain"}
