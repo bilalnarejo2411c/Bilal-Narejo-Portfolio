@@ -15,13 +15,13 @@ document.addEventListener('DOMContentLoaded', function() {
             "description": "Responsive website using HTML & CSS",
             "link": "https://bilalnarejo2411c.github.io/Responsive-page/"
         },
-        // {
-        //     "title": "Drag Me",
-        //     "image": "nodejs",
-        //     "projectImg": "dragme.png",
-        //     "description": "A div element, that you can drag around the screen",
-        //     "link": "https://qms85.github.io/DragMeAroundTheScreen/"
-        // },
+         {
+            "title": "Angular Front End Project",
+            "image": "Angular",
+            "projectImg": "angular.png",
+            "description": "Build A Project Angualr Front End",
+            "link": "https://chipper-brigadeiros-063067.netlify.app/"
+        },
         // {
         //     "title": "Entrepreneurship",
         //     "image": "react",
