@@ -2,11 +2,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data
     const projects = [
         {
-            "title": "Shelter/Hazards Information Page",
-            "image": "E project.png",
-            "projectImg": "E project.png",
-            "description": "Made a page about shelters and hazards.",
-            "link": "https://bilalnarejo2411c.github.io/Shelter-Hazard-Project/"
+            "title": "Star-Security",
+            "image": "starSecure.png",
+            "projectImg": "starSecure.png",
+            "description": "ASP.NET Core recruitment system featuring Admin, Employee, and User dashboards.",
+            "link": "http://www.starsecure.somee.com/"
         },
         {
             "title": "Responsive Page Using HTML + CSS",
