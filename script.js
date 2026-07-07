@@ -8,13 +8,13 @@ document.addEventListener('DOMContentLoaded', function() {
             "description": "ASP.NET Core recruitment system featuring Admin, Employee, and User dashboards.",
             "link": "http://www.starsecure.somee.com/"
         },
-        {
-            "title": "Responsive Page Using HTML + CSS",
-            "image": "HTML + CSS",
-            "projectImg": "Responsive Web Page HTML + CSS.png",
-            "description": "Responsive website using HTML & CSS",
-            "link": "https://bilalnarejo2411c.github.io/Responsive-page/"
-        },
+        // {
+        //     "title": "Responsive Page Using HTML + CSS",
+        //     "image": "HTML + CSS",
+        //     "projectImg": "Responsive Web Page HTML + CSS.png",
+        //     "description": "Responsive website using HTML & CSS",
+        //     "link": "https://bilalnarejo2411c.github.io/Responsive-page/"
+        // },
          {
             "title": "Angular Front End Project",
             "image": "Angular",
@@ -157,6 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Tools data
     const tools = [
+        {"name": ".NET CORE (MVC)", "icon": "devicon-dotnetcore-plain"},
         {"name": "HTML", "icon": "devicon-html5-plain colored"},
         {"name": "CSS", "icon": "devicon-css3-plain colored"},
         {"name": "JavaScript", "icon": "devicon-javascript-plain colored"},
