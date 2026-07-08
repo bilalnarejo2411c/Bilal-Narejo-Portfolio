@@ -22,13 +22,13 @@ document.addEventListener('DOMContentLoaded', function() {
             "description": "Build A Project Angualr Front End",
             "link": "https://chipper-brigadeiros-063067.netlify.app/"
         },
-        // {
-        //     "title": "Entrepreneurship",
-        //     "image": "react",
-        //     "projectImg": "entrepreneurship.png",
-        //     "description": "A guide to Entrepreneurship, using Replit .",
-        //     "link": "https://entrepreneurship-withreplit.streamlit.app/"
-        // },
+        {
+            "title": "SIGRI RESTURANT",
+            "image": "FrontEnd",
+            "projectImg": "SIGRI.Png",
+            "description": "SIGRI restaurant UI with WhatsApp booking",
+            "link": "https://sigri-resturant.bilalamin448.workers.dev/"
+        },
         // {
         //     "title": "GitHub Profile Search",
         //     "image": "javascript",
